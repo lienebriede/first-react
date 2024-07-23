@@ -1,9 +1,9 @@
 import './App.css';
-import RenderingLists from './components/RenderingLists';
+import LifeCyclesCWU from './components/LifeCyclesCWU';
 
 function App() {
   return <div className="App">
-    <RenderingLists />
+    <LifeCyclesCWU />
   </div>;
 }
 
