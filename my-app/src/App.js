@@ -1,10 +1,10 @@
 import './App.css';
-import ControlledFormHooks from './components/ControlledFormHooks';
+import UseStateWithObjects from './components/UseStateWithObjects';
 
 
 function App() {
   return <div className="App">
-    <ControlledFormHooks />
+    <UseStateWithObjects />
   </div>;
 }
 
