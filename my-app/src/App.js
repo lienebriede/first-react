@@ -1,10 +1,10 @@
 import './App.css';
-import SearchBar from './components/SearchBar';
+import HooksCounter from './components/HooksCounter';
 
 
 function App() {
   return <div className="App">
-    <SearchBar />
+    <HooksCounter />
   </div>;
 }
 
