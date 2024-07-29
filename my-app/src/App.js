@@ -1,11 +1,11 @@
 import './App.css';
-import UseEffectCounter from './UseEffectCounter';
+import UseEffectCounterContainer from './UseEffectCounterContainer';
 
 
 
 function App() {
   return <div className="App">
-    <UseEffectCounter />
+    <UseEffectCounterContainer />
   </div>;
 }
 
